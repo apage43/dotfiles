@@ -33,10 +33,6 @@ export EDITOR='mvim -f --nomru'
 export PATH=/opt/local/bin:/opt/local/sbin:/usr/local/CrossPack-AVR/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin:/Users/apage43/android-ndk-r6b/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/bin:/Users/apage43/bin:/Users/apage43/android-sdk-mac_86/platform-tools:/usr/local/bin:/usr/local/Cellar/node/0.1.100/bin:/Users/apage43/stuff/clojurescript/bin
 
 
-#RVM
-#
-[[ -s $HOME/.rvm/scripts/rvm ]] && source $HOME/.rvm/scripts/rvm
-
 #TMuxinator
 [[ -s $HOME/.tmuxinator/scripts/tmuxinator ]] && source $HOME/.tmuxinator/scripts/tmuxinator
 
