@@ -81,7 +81,7 @@ Bundle 'itspriddle/vim-marked'
   nmap <leader>qp :MarkedOpen<CR>
 
 "Go
-set rtp+=/usr/local/Cellar/go/1.1/misc/vim
+set rtp+=/usr/local/Cellar/go/1.2/libexec/misc/vim
 Bundle 'go.vim'
 Bundle 'nsf/gocode', {'rtp': 'vim/'}
 "Bundle 'mozilla/rust', {'rtp': 'src/etc/vim'}
